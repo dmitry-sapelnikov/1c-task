@@ -1,7 +1,11 @@
 # Реализация задания
-Решение здесь:
+Исходники здесь:
 
 https://github.com/dmitry-sapelnikov/neat-physics
+
+Скомпилированная версия - в [./bin](bin)
+
+В теории может потребоваться установка Visual C++ Redistributable v14: https://aka.ms/vc14/vc_redist.x64.exe
 
 Управление:
 - Нажатие на колесо мыши - перемещение
